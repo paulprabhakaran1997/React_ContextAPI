@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "phone": "9191919191"
+    },
+    {
+      "id": 2,
+      "name": "Balu",
+      "email": "balu@gmail.com",
+      "phone": "9292929292"
+    },
+    {
+      "id": 3,
+      "name": "Celvin",
+      "email": "celvin@gmail.com",
+      "phone": "9393939393"
+    },
+    {
+      "id": 4,
+      "name": "Ajaxss",
+      "email": "abc@xyz.com",
+      "phone": "9879879879"
+    },
+    {
+      "name": "API",
+      "email": "abc@xyz.coms",
+      "phone": "9879879879",
+      "id": 5
+    }
+  ]
+}
