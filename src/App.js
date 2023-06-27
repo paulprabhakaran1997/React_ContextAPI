@@ -12,6 +12,7 @@ import EditUser from './components/EditUser';
 import { DataProvider } from './context/DataContext';
 
 function App() {
+  console.log("TESTIng PR....")
   return (
     <div className="App">
       <DataProvider>
